@@ -5,6 +5,7 @@ public class Practice {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
+        
         // Lines of code inside the try block will be checked for exceptions
         try {
             System.out.println("Please enter a number: ");
